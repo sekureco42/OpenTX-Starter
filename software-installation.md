@@ -49,3 +49,19 @@ If you want to update manually you have just to download the latest companion \(
 
 First step is to define some basic settings. Start the application and open settings by `Settings -> Settings...` The following window will appear:
 
+![Open Settings by navigating to the corresponding menu.](.gitbook/assets/settings_settings.png)
+
+After selecting `Settings...` the following dialog will be shown.
+
+### Settings, Radio Profile
+
+![Settings window, page &quot;Radio Profile&quot;](.gitbook/assets/settings_radio-profile.png)
+
+### Settings, Application Settings
+
+![Settings window, page &quot;Application Settings&quot;](.gitbook/assets/settings_application-settings.png)
+
+### Settings, Simulator Settings
+
+![Settings window, page &quot;Simulator Settings&quot;](.gitbook/assets/settings_simulator-settings.png)
+
