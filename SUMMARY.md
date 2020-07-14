@@ -1,6 +1,6 @@
 # Table of contents
 
 * [OpenTX Starter](README.md)
-* [Base Setup](base-setup.md)
-* [Backup of your radio](backup-of-your-radio.md)
+* [Create a backup of your radio](create-a-backup-of-your-radio.md)
+* [Initial settings](initial-settings.md)
 
