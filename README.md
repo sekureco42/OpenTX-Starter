@@ -30,6 +30,7 @@ The following list gives you tasks what you should do:
 
 ## More detailed information
 
+* Installing useful tools for your OpenTX based radio
 * Updating your radio \(incl. your internal 4-in-1 module\)
 * Setting up FrSky XSR-Sim Stick
 
