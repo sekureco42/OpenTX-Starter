@@ -4,7 +4,9 @@ description: This document describes how you create an backup of your radio.
 
 # Create a backup of your radio
 
-Here you will learn how to backup your radio based on OpenTX. 
+## Prerequisits
+
+Make sure that you have OpenTX Companion installed on your system. In [Software Installation](software-installation.md) you will find the required instructions.
 
 
 
